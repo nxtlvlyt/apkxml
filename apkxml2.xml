@@ -24,57 +24,13 @@
 
 <item>
 
-<id>102</id>
-
-<cat>*Paid Services</cat>
-
-<name>Limitless XCIPTV v3.1.7</name>
-
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/b4Xzt9Str4cKzPp/download</source>
-
-<imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>103</id>
-
-<cat>*Paid Services</cat>
-
-<name>StreamFlix Ent v3.1.2</name>
-
-<source>https://tlgur.com/d/gvxPBjB8</source>
-
-<imge>https://www.dropbox.com/s/knq0kwk4m42d19v/streamflix.png?raw=1</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
 <id>201</id>
 
 <cat>Movies &amp; TV</cat>
 
-<name>BeeTV v2.3.0 (ADS)</name>
+<name>BeeTV v2.3.2 (ADS)</name>
 
-<source>https://tlgur.com/d/GON9mlp8</source>
+<source>http://nexxus.casa/nxtlvltech/movie/BeeTV_v2.3.2.apk</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rQEk2HBGYpKEwaqfxuMG1X2tFr8HDtCDU8GUfcRE_BdElZs_</imge>
 
@@ -94,9 +50,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>Cinema HD v2 v2.0.8(ADS)</name>
+<name>Cinema HD v2 v2.1.1(ADS)</name>
 
-<source>https://tlgur.com/d/GVQWBnw8</source>
+<source>http://nexxus.casa/nxtlvltech/movie/cinema-2.1.1.apk</source>
 
 <imge>https://image.winudf.com/v2/image/Y29tLmhvbGFhcHAuaGRtb3ZpZXNfc2NyZWVuXzBfMTUxNDg4NzgwNV8wOTU</imge>
 
@@ -138,9 +94,31 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>JetBox v3.5.1 (ADS)</name>
+<name>FREEFLIX HQ 4.0.0 BETA 2 ADS</name>
 
-<source>https://tlgur.com/d/Gd3DqWE8</source>
+<source>http://nexxus.casa/nxtlvltech/movie/ffhq4b2.apk</source>
+
+<imge>https://cdn6.aptoide.com/imgs/d/c/b/dcb5f5e67017747ff3f920fd446ef408_icon.png</imge>
+
+<desc></desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64></base64>
+
+</item>
+  
+<item>
+
+<id>205</id>
+
+<cat>Movies &amp; TV</cat>
+
+<name>JetBox v3.5.3 (ADS)</name>
+
+<source>http://nexxus.casa/nxtlvltech/movie/JetBOX_3.5.3_V27.apk</source>
 
 <imge>https://cdn6.aptoide.com/imgs/d/c/b/dcb5f5e67017747ff3f920fd446ef408_icon.png</imge>
 
@@ -156,13 +134,13 @@
 
 <item>
 
-<id>205</id>
+<id>206</id>
 
 <cat>Movies &amp; TV</cat>
 
-<name>MediaBox HD v2.4.5 (ADS)</name>
+<name>MEDIABOX HD 2.4.6.1 ADS</name>
 
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/inADiyQXo9wFEkW/download</source>
+<source>http://nexxus.casa/nxtlvltech/movie/mediaboxhd2461.apk</source>
 
 <imge>https://rawapk.com/wp-content/uploads/2018/10/MediaBox-HD-Icon.png</imge>
 
@@ -178,7 +156,7 @@
 
 <item>
 
-<id>206</id>
+<id>207</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -200,7 +178,7 @@
 
 <item>
 
-<id>207</id>
+<id>208</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -222,7 +200,7 @@
 
 <item>
 
-<id>208</id>
+<id>209</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -244,37 +222,15 @@
 
 <item>
 
-<id>209</id>
-
-<cat>Movies &amp; TV</cat>
-
-<name>SMART YOUTUBE TV 6.17.80</name>
-
-<source>https://tlgur.com/d/g6xZo7Z8</source>
-
-<imge>https://tlgur.com/d/GEQ1RW0G</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
 <id>210</id>
 
 <cat>Movies &amp; TV</cat>
 
-<name>TeaTV 9.8r (ADS)</name>
+<name>SMART YOUTUBE TV 6.17.106</name>
 
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/ASZtDRJmWnLearb/download</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/SYTV_Orig_v6.17.106_r.apk</source>
 
-<imge>https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png</imge>
+<imge>https://tlgur.com/d/GEQ1RW0G</imge>
 
 <desc></desc>
 
@@ -292,11 +248,11 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>Titanium TV v2.0.19</name>
+<name>TEATV 9.9.2r b107 ADS</name>
 
-<source>https://tlgur.com/d/GXeOpBJg</source>
+<source>http://nexxus.casa/nxtlvltech/movie/TeaTV_9.9.2r_V107.apk</source>
 
-<imge>https://cdn6.aptoide.com/imgs/a/d/9/ad919d0c1f9e6664626c73461e1fdd3d_icon.png</imge>
+<imge>https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png</imge>
 
 <desc></desc>
 
@@ -314,9 +270,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>TVZion v3.8.1 Alpha 2</name>
+<name>TVZion v3.8.1</name>
 
-<source>https://tlgur.com/d/8BYvnLQ4</source>
+<source>https://tlgur.com/d/G7abMNV4</source>
 
 <imge>https://cdn6.aptoide.com/imgs/9/4/f/94f92f3b447eba95f88c2a8d765e9818_icon.png</imge>
 
@@ -336,9 +292,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>Typhoon TV v2.0.10</name>
+<name>Typhoon TV v2.0.16</name>
 
-<source>https://tlgur.com/d/4kBp7mdg</source>
+<source>http://nexxus.casa/nxtlvltech/movie/typhoon2.0.16.apk</source>
 
 <imge>https://www.dropbox.com/s/946r6azsg7u8r6r/typhoontv.png?raw=1</imge>
 
@@ -358,9 +314,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>YOUTUBE KIDS TV 6.16.89</name>
+<name>YOUTUBE KIDS TV 6.17.66</name>
 
-<source>https://tlgur.com/d/g6xzdPR8</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/Kids%20YouTube%20TV%206.17.66.apk</source>
 
 <imge>https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/7b/d3/84/7bd38451-9f65-5009-b22a-7d3b4515f8af/YouTubeKidsAppIcon-1x_U007emarketing-85-220-0-5.png/246x0w.jpg</imge>
 
@@ -380,9 +336,9 @@
 
 <cat>Tools &amp; Utilities</cat>
 
-<name>AdGuard Premium v3.1.0 Final</name>
+<name>ADGUARD PREMIUM 3.2.150 final</name>
 
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/DTcrn6DZaT846st/download</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/AdGuard-Premium-v3.2.150_build_3002150-Mod_Lite-armeabi-v7a.apk</source>
 
 <imge>https://i.imgur.com/rs4mwHI.png</imge>
 
@@ -402,9 +358,9 @@
 
 <cat>Tools &amp; Utilities</cat>
 
-<name>ATV Launcher Pro v0.1.3</name>
+<name>ATV Launcher Pro v0.1.5</name>
 
-<source>https://tlgur.com/d/4kBj0VZg</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/ATV_Launcher_0.1.5-pro.apk</source>
 
 <imge>https://cs5-3.4pda.to/10883422.png</imge>
 
@@ -468,9 +424,9 @@
 
 <cat>Tools &amp; Utilities</cat>
 
-<name>SD Maid Pro v4.14.32</name>
+<name>SD MAID PRO 4.14.35</name>
 
-<source>https://tlgur.com/d/4xZB2OYG</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/SD_Maid-Pro-v4.14.35_build_41435.apk</source>
 
 <imge>https://dzapk.com/imagefly/w200-h200-c/images/2018/02/24/5528/thumb_sd-maid-pro-system-cleaning-tool-v4-10-2-apk_1.jpg</imge>
 
@@ -534,9 +490,9 @@
 
 <cat>Players</cat>
 
-<name>VLC Player v3.2.0 BETA 3 (ARM32)</name>
+<name>VLC Player v3.2.0 BETA 4 (ARM32)</name>
 
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/m9Pk2mzGwiD7qG7/download</source>
+<source>http://nexxus.casa/nxtlvltech/players/VLC%2B3.2.0-beta-4%28armeabi-v7a%29.apk</source>
 
 <imge>https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/15/b4/f9/15b4f95b-5fe1-5ab4-e460-2e4546e367d7/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg</imge>
 
@@ -578,9 +534,9 @@
 
 <cat>Anime</cat>
 
-<name>AnimeDLR v5.1.0 (MOD)</name>
+<name>ANIMEDLR 5.2.1 ADFREE</name>
 
-<source>https://tlgur.com/d/GVQjyDX8</source>
+<source>http://nexxus.casa/nxtlvltech/anime/AnimeDLR_v5.2.1_%5BAd_Free%5D.apk</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiShCFIheXVztSPwipLYLKls8RBGOlXMW4J06_7XFDfcqWHSk</imge>
 
@@ -600,9 +556,9 @@
 
 <cat>Anime</cat>
 
-<name>Crunchyroll TV v1.0.32</name>
+<name>Crunchyroll TV v1.0.33</name>
 
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/r6MRZeFN7yQcxWD/download</source>
+<source>http://nexxus.casa/nxtlvltech/anime/Crunchyroll_Android_TV_v1.0.33_%5BPremium_Mod_By_Stabiron%5D.apk</source>
 
 <imge>https://i2.wp.com/onhax.me/wp-content/uploads/2017/06/Crunchyroll-Everything-Anime.png?ssl=1</imge>
 
@@ -622,9 +578,9 @@
 
 <cat>Anime</cat>
 
-<name>FireAnime v2.9</name>
+<name>FireAnime v2.9.6</name>
 
-<source>https://tlgur.com/d/4RM05Xkg</source>
+<source>http://nexxus.casa/nxtlvltech/anime/FireAnime2.9.6.apk</source>
 
 <imge>https://avatars0.githubusercontent.com/u/39435351</imge>
 
