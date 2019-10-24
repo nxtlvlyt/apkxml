@@ -28,9 +28,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>BeeTV v2.3.4 (ADS)</name>
+<name>BeeTV v2.3.5 (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/BeeTVv2.3.4.apk</source>
+<source>http://nexxus.casa/nxtlvltech/movie/BeeTV_2.3.5_V46.apk</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rQEk2HBGYpKEwaqfxuMG1X2tFr8HDtCDU8GUfcRE_BdElZs_</imge>
 
@@ -50,9 +50,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>Cinema HD v2 v2.1.1(ADS)</name>
+<name>Cinema HD v2 v2.1.2(ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/cinema-2.1.1.apk</source>
+<source>http://nexxus.casa/nxtlvltech/movie/cinema-2.1.2.apk</source>
 
 <imge>https://image.winudf.com/v2/image/Y29tLmhvbGFhcHAuaGRtb3ZpZXNfc2NyZWVuXzBfMTUxNDg4NzgwNV8wOTU</imge>
 
@@ -72,9 +72,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>Cyberflix TV v3.1.9</name>
+<name>Cyberflix TV v3.2.0</name>
 
-<source>https://tlgur.com/d/GboDWmRg</source>
+<source>http://nexxus.casa/nxtlvltech/movie/CyberFlixTV3.2.0.apk</source>
 
 <imge>https://i.ytimg.com/vi/5q-mxWNviGI/maxresdefault.jpg</imge>
 
@@ -226,9 +226,9 @@
 
 <cat>Movies &amp; TV</cat>
 
-<name>SMART YOUTUBE TV 6.17.120</name>
+<name>SMART YOUTUBE TV 6.17.192</name>
 
-<source>http://nexxus.casa/nxtlvltech/toptools/SmartYouTubeTV-6.17.120.apk</source>
+<source>http://nexxus.casa/nxtlvltech/toptools/SYTV_Orig_v6.17.192_r.apk</source>
 
 <imge>https://tlgur.com/d/GEQ1RW0G</imge>
 
@@ -245,28 +245,6 @@
 <item>
 
 <id>211</id>
-
-<cat>Movies &amp; TV</cat>
-
-<name>TEATV 9.9.4r ADS</name>
-
-<source>http://nexxus.casa/nxtlvltech/movie/TeaTV_v9.9.4r.apk</source>
-
-<imge>https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>212</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -288,13 +266,13 @@
 
 <item>
 
-<id>213</id>
+<id>212</id>
 
 <cat>Movies &amp; TV</cat>
 
-<name>Typhoon TV v2.0.18</name>
+<name>Typhoon TV v2.0.19</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/TyphoonTV_2.0.18_V199.apk</source>
+<source>http://nexxus.casa/nxtlvltech/movie/TyphoonTV_2.0.19_V200.apk</source>
 
 <imge>https://www.dropbox.com/s/946r6azsg7u8r6r/typhoontv.png?raw=1</imge>
 
@@ -490,9 +468,9 @@
 
 <cat>Players</cat>
 
-<name>VLC Player v3.2.0 BETA 6 (ARM32)</name>
+<name>VLC Player v3.2.0 BETA 7 (ARM32)</name>
 
-<source>http://nexxus.casa/nxtlvltech/players/VLC-3.2.0beta6arm.apk</source>
+<source>http://nexxus.casa/nxtlvltech/players/VLC-3.2.0-beta-7arm.apk</source>
 
 <imge>https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/15/b4/f9/15b4f95b-5fe1-5ab4-e460-2e4546e367d7/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg</imge>
 
@@ -534,9 +512,9 @@
 
 <cat>Anime</cat>
 
-<name>ANIMEDLR 5.2.4 ADFREE</name>
+<name>ANIMEDLR 5.3.3 ADFREE</name>
 
-<source>http://nexxus.casa/nxtlvltech/anime/AnimeDLR%20v5.2.4%20%5BMod%5D.apk</source>
+<source>http://nexxus.casa/nxtlvltech/anime/AnimeDLR_v5.3.3.apk</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiShCFIheXVztSPwipLYLKls8RBGOlXMW4J06_7XFDfcqWHSk</imge>
 
@@ -776,9 +754,9 @@
 
 <cat>FREE LIVE TV + SPORTS</cat>
 
-<name>OREO TV 1.7.8</name>
+<name>OREO TV 1.8.0</name>
 
-<source>http://nexxus.casa/nxtlvltech/livetv/OREOTV_1.7.8_V16.apk</source>
+<source>http://nexxus.casa/nxtlvltech/livetv/OREOTV_1.8.0_V18.apk</source>
 
 <imge>https://www.dropbox.com/s/fx5kfb9qbspkhn0/oreotv.png?raw=1</imge>
 
