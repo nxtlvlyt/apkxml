@@ -4,13 +4,13 @@
 
 <id>101</id>
 
-<cat>*Paid Services</cat>
+<cat>*Live TV Apps</cat>
 
-<name>Limitless CCTV v2.1.2</name>
+<name>Smarters Pro v3.0.1</name>
 
-<source>http://nexxus.casa/nxtlvltech/IPTV/LimitlessCCTV%202.1.2new.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Media-Players/IPTV-Smarters-Pro-v3.0.1%5BPremium-Lite-Beta%5D.apk</source>
 
-<imge>https://www.iptvinsider.com/wp-content/uploads/2018/02/cropped-limitless.jpg</imge>
+<imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI4Ax0SMJiGxAKrY-qxgIlsDCmSRPsEcrYvbV0LahpMC5TMea7bS5EY9rxhZryqE7wmdk&usqp=CAU</imge>
 
 <desc></desc>
 
@@ -23,16 +23,16 @@
 </item>
 
 <item>
-  
+
 <id>102</id>
 
 <cat>*Paid Services</cat>
 
-<name>TIVIMATE 2.0.0 (ORIGINAL)</name>
+<name>XCIPTV v5.0.1</name>
 
-<source>http://nexxus.casa/nxtlvltech/IPTV/tivimate_2.0.0.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Media-Players/XCIPTV-v5.0.1%5BPremium-Lite%5D.apk</source>
 
-<imge>https://data.apksum.com/e4/ar.tvplayer.tv/1.1.5/icon.png</imge>
+<imge>https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLnhjaXB0dl9pY29uXzE1ODc5MzAyNzNfMDAy/icon.png?w=&fakeurl=1</imge>
 
 <desc></desc>
 
@@ -44,15 +44,89 @@
 
 </item>
 
-  <item>
-    
+<item>
+
+<id>103</id>
+
+<cat>*Paid Services</cat>
+
+<name>ATV CCTV</name>
+
+<source>http://nlt.wtf/apks/ATV%20CCTV.apk</source>
+
+<imge>https://tlgur.com/d/4zZbQpb4</imge>
+
+<desc></desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64></base64>
+
+</item>
+
+<item>
+
+</item>
+
+<item>
+
+<id>104</id>
+
+<cat>*Paid Services</cat>
+
+<name>ATV XCIPTV</name>
+
+<source>http://nlt.wtf/apks/ATV%20CCTV.apk</source>
+
+<imge>https://tlgur.com/d/4zZbQpb4</imge>
+
+<desc></desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64></base64>
+
+</item>
+
+<item>
+
+</item>
+
+<item>
+
+<id>105</id>
+
+<cat>*Paid Services</cat>
+
+<name>ATV Sky</name>
+
+<source>http://nlt.wtf/nexxus/paid/test/com.topper865.ltq2_iconfix.apk</source>
+
+<imge>https://tlgur.com/d/4zZbQpb4</imge>
+
+<desc></desc>
+
+<vers></vers>
+
+<vidz></vidz>
+
+<base64></base64>
+
+</item>
+
+<item>
+
 <id>201</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>BeeTV v2.3.8 (ADS)</name>
+<name>BeeTV v2.8.5 (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/BeeTVv2.3.8.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/BeeTV-v2.8.5.apk</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rQEk2HBGYpKEwaqfxuMG1X2tFr8HDtCDU8GUfcRE_BdElZs_</imge>
 
@@ -70,13 +144,13 @@
 
 <id>202</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>Cinema HD v2 v2.1.5(ADS)</name>
+<name>Cinema HD v2 v2.3.7.3 (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/cinema-2.1.5.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/Cinema-HD-V2-v2.3.7.3.apk</source>
 
-<imge>https://image.winudf.com/v2/image/Y29tLmhvbGFhcHAuaGRtb3ZpZXNfc2NyZWVuXzBfMTUxNDg4NzgwNV8wOTU</imge>
+<imge>https://image.winudf.com/v2/image/Y29tLmhvbGFhcHAuaGRtb3ZpZXNfc2NyZWVuXzBfMTUxNDg4NzgwNV8wOTU/screen-0.jpg?h=355&fakeurl=1&type=.jpg</imge>
 
 <desc></desc>
 
@@ -92,11 +166,11 @@
 
 <id>203</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>Cyberflix TV v3.2.2</name>
+<name>Cyberflix TV v3.3.2</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/cf3.2.2.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/CyberFlix-TV-v3.3.2%5BAd-Free%5D.apk</source>
 
 <imge>https://i.ytimg.com/vi/5q-mxWNviGI/maxresdefault.jpg</imge>
 
@@ -114,13 +188,13 @@
 
 <id>204</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>FREEFLIX HQ 4.1.0 ADS</name>
+<name>FilmPlus 1.2.8 (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/FreeFlix_4.1.0.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/FilmPlus-v1.2.8f.apk</source>
 
-<imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXw4lwg0NIXqQN252w3Z0fpA9hjNCBWt8CByBDy8hr7rrVeacT</imge>
+<imge>https://troypoint.com/wp-content/uploads/2020/12/filmplus-app.png</imge>
 
 <desc></desc>
 
@@ -131,18 +205,18 @@
 <base64></base64>
 
 </item>
-  
+
 <item>
 
 <id>205</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>JetBox v3.5.3 (ADS)</name>
+<name>Syncler (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/JetBOX_3.5.3_V27.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/Syncler-Installer-v12001.apk</source>
 
-<imge>https://cdn6.aptoide.com/imgs/d/c/b/dcb5f5e67017747ff3f920fd446ef408_icon.png</imge>
+<imge>https://troypoint.com/wp-content/uploads/2020/11/syncler-apk.png</imge>
 
 <desc></desc>
 
@@ -158,13 +232,13 @@
 
 <id>206</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>MEDIABOX HD 2.4.9.2 ADS</name>
+<name>Weyd (LITE MOD)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/mediaboxhd_2.4.9.2.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/Weyd-v1.3.1.apk</source>
 
-<imge>https://rawapk.com/wp-content/uploads/2018/10/MediaBox-HD-Icon.png</imge>
+<imge>https://myfirestream.com/wp-content/uploads/2020/12/Weyd-APK.jpg</imge>
 
 <desc></desc>
 
@@ -174,19 +248,17 @@
 
 <base64></base64>
 
-</item>
-
-<item>
+</item><item>
 
 <id>207</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>MegaBox HD v1.0.5 (LITE MOD)</name>
+<name>Ocean Streams v1.0 (Morpheus TV Clone)</name>
 
-<source>https://tlgur.com/d/Gd3lebj8</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/Ocean-Streamz-1.0.1r%5BAndriod-TV%5D.apk</source>
 
-<imge>https://megaboxhd-apk.com/wp-content/uploads/2017/07/Download-Megabox-HD.png</imge>
+<imge>https://apktime.com/charts/ocean-streamz.png</imge>
 
 <desc></desc>
 
@@ -202,13 +274,13 @@
 
 <id>208</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>NOVATV 1.1.1 ADS</name>
+<name>CucoTV</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/NovaTV_v1.1.1.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/Cucotv-v1.0.9.apk</source>
 
-<imge>https://cyberflix.me/wp-content/uploads/2019/10/novatv.png</imge>
+<imge>https://cucotv.github.io/fav/favicon-512x512.jpg</imge>
 
 <desc></desc>
 
@@ -224,13 +296,13 @@
 
 <id>209</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>THEATER PLUS 1.0</name>
+<name>TeaTV 10.2.3r (ADS)</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/TheaterPlusTVfs_1.0.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/TeaTV-v10.2.3r.apk</source>
 
-<imge>https://cyberflix.me/wp-content/uploads/2019/10/theater-plus-b.png</imge>
+<imge>https://teatv.net/wp-content/uploads/2017/06/TeaTV_logo5.png</imge>
 
 <desc></desc>
 
@@ -246,13 +318,13 @@
 
 <id>210</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>SMART YOUTUBE TV 6.17.301</name>
+<name>Novatv 1.5.0 </name>
 
-<source>http://nexxus.casa/nxtlvltech/toptools/SYTV_Orig_v6.17.301_r.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/NovaTV-v1.5.0.apk</source>
 
-<imge>https://tlgur.com/d/GEQ1RW0G</imge>
+<imge>https://troypoint.com/wp-content/uploads/2019/10/nova-tv.gif</imge>
 
 <desc></desc>
 
@@ -268,13 +340,13 @@
 
 <id>211</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>TVZion v3.8.1</name>
+<name>UKTurks 1.0.6</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/TVZion_3.8.1.Patch.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/UK-Turks-App-v1.0.6.apk</source>
 
-<imge>https://cdn6.aptoide.com/imgs/9/4/f/94f92f3b447eba95f88c2a8d765e9818_icon.png</imge>
+<imge>https://i0.wp.com/dimitrology.com/wp-content/uploads/2020/11/UK-Turks-Playlist-APK-Logo.jpg?w=200&ssl=1</imge>
 
 <desc></desc>
 
@@ -290,57 +362,13 @@
 
 <id>212</id>
 
-<cat>Movies &amp; TV</cat>
+<cat>Movies & TV</cat>
 
-<name>Typhoon TV v2.1.6</name>
+<name>MovieHD</name>
 
-<source>http://nexxus.casa/nxtlvltech/movie/typ2.1.6.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Movie/MovieHD-v1.4.apk</source>
 
-<imge>https://azulapk.com/uploads/TyphoonTV.png</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>214</id>
-
-<cat>Movies &amp; TV</cat>
-
-<name>VIVATV 1.0.7 ADS</name>
-
-<source>http://nexxus.casa/nxtlvltech/movie/VivaTV1.0.7v.apk</source>
-
-<imge>https://i.postimg.cc/sD1rhRvF/IMG-20191125-122336.jpg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-  
-<id>215</id>
-
-<cat>Movies &amp; TV</cat>
-
-<name>YOUTUBE KIDS TV 6.17.304</name>
-
-<source>http://nexxus.casa/nxtlvltech/misc/kidsyoutubetv_6.17.304.apk</source>
-
-<imge>https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/7b/d3/84/7bd38451-9f65-5009-b22a-7d3b4515f8af/YouTubeKidsAppIcon-1x_U007emarketing-85-220-0-5.png/246x0w.jpg</imge>
+<imge>https://cdn.moviehdapkdownload.com/wp-content/uploads/2020/12/movie-hd.jpg</imge>
 
 <desc></desc>
 
@@ -356,13 +384,13 @@
 
 <id>301</id>
 
-<cat>Tools &amp; Utilities</cat>
+<cat>Tools & Utilities</cat>
 
-<name>ADGUARD PREMIUM 3.2.150 final</name>
+<name>AdGuard Premium v3.6.23</name>
 
-<source>http://nexxus.casa/nxtlvltech/toptools/AdGuard-Premium-v3.2.150_build_3002150-Mod_Lite-armeabi-v7a.apk</source>
+<source>https://www.djjubeemedia.appboxes.co/Apks/Maintenance-Security/AdGuard-v3.6.23%5BPremium-Arm7-32Bit%5D.apk</source>
 
-<imge>https://i.imgur.com/rs4mwHI.png</imge>
+<imge>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AdGuard.svg/330px-AdGuard.svg.png</imge>
 
 <desc></desc>
 
@@ -378,13 +406,13 @@
 
 <id>302</id>
 
-<cat>Tools &amp; Utilities</cat>
+<cat>Tools & Utilities</cat>
 
-<name>ATV Launcher Pro v0.1.5</name>
+<name>NxTLvL DnS</name>
 
-<source>http://nexxus.casa/nxtlvltech/toptools/ATV_Launcher_0.1.5-pro.apk</source>
+<source>http://nlt.wtf/apks/NxTLvL%20DNS%201.6.2_start_on_boot_v1%262sign.apk</source>
 
-<imge>https://cs5-3.4pda.to/10883422.png</imge>
+<imge>https://www.apkrogue.com/wp-content/uploads/2020/10/2410184129.png</imge>
 
 <desc></desc>
 
@@ -400,7 +428,7 @@
 
 <id>303</id>
 
-<cat>Tools &amp; Utilities</cat>
+<cat>Tools & Utilities</cat>
 
 <name>DNS Changer Lilly (MOD)</name>
 
@@ -422,7 +450,7 @@
 
 <id>304</id>
 
-<cat>Tools &amp; Utilities</cat>
+<cat>Tools & Utilities</cat>
 
 <name>Mouse Toggle v1.06 (Fire Devices - 3rd + 4th Gen)</name>
 
@@ -444,35 +472,13 @@
 
 <id>305</id>
 
-<cat>Tools &amp; Utilities</cat>
+<cat>Tools & Utilities</cat>
 
-<name>SD MAID PRO 4.15.4</name>
+<name>SD Maid Pro v4.14.31</name>
 
-<source>http://nexxus.casa/nxtlvltech/toptools/SD_Maid-Pro-v4.15.4_build_41504.apk</source>
+<source>https://tlgur.com/d/GZl0KMm4</source>
 
 <imge>https://dzapk.com/imagefly/w200-h200-c/images/2018/02/24/5528/thumb_sd-maid-pro-system-cleaning-tool-v4-10-2-apk_1.jpg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>306</id>
-
-<cat>Tools &amp; Utilities</cat>
-
-<name>FILELINKED 1.8.5</name>
-
-<source>http://nexxus.casa/nxtlvltech/misc/Filelinked_1.8.5_final.apk</source>
-
-<imge>https://www.filelinked.com/logo/filelinked_logo_white.png</imge>
 
 <desc></desc>
 
@@ -490,9 +496,9 @@
 
 <cat>Players</cat>
 
-<name>MX PLAYER PRO 1.15.5 AC3-DTS-NEON</name>
+<name>MX Player Pro v1.11.6 AC3-DTS (LITE MOD)</name>
 
-<source>http://nexxus.casa/nxtlvltech/players/MX_Player_Pro-v1.15.5_build_1310001157-AC3-DTS_NEON-armeabi-v7a.apk</source>
+<source>https://tlgur.com/d/4rzEKoy4</source>
 
 <imge>https://www.androidapksfree.com/wp-content/uploads/2015/08/MX-Player-APK.png</imge>
 
@@ -512,33 +518,11 @@
 
 <cat>Players</cat>
 
-<name>VLC Player v3.2.4 (ARM32)</name>
+<name>VLC Player v3.2.0 BETA 1 (ARM32)</name>
 
-<source>http://nexxus.casa/nxtlvltech/players/VLC_3.2.4-arm.apk</source>
+<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/LL5nJix2osiZpMQ/download</source>
 
 <imge>https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/15/b4/f9/15b4f95b-5fe1-5ab4-e460-2e4546e367d7/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>403</id>
-
-<cat>Players</cat>
-
-<name>EUMC 16.7-2</name>
-
-<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/BppcsLgxTxxnm95/download</source>
-
-<imge>https://static-s.aa-cdn.net/img/gp/20600011109860/dcJAleFBRUiCxxwH241C-9gfP5r50X8YgSnu4dYmjCJGbjZpkMImCa7fHSeHJaSb3g=s300?v=1</imge>
 
 <desc></desc>
 
@@ -556,9 +540,9 @@
 
 <cat>Anime</cat>
 
-<name>ANIMEDLR 7.0.0</name>
+<name>AnimeDLR v5.0.5 (MOD)</name>
 
-<source>http://nexxus.casa/nxtlvltech/anime/AnimeDLR-7.0.0-full-release.apk</source>
+<source>https://tlgur.com/d/GZlXjWB4</source>
 
 <imge>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiShCFIheXVztSPwipLYLKls8RBGOlXMW4J06_7XFDfcqWHSk</imge>
 
@@ -578,9 +562,9 @@
 
 <cat>Anime</cat>
 
-<name>Crunchyroll TV v1.0.33</name>
+<name>Crunchyroll TV v1.0.32</name>
 
-<source>http://nexxus.casa/nxtlvltech/anime/Crunchyroll_Android_TV_v1.0.33_%5BPremium_Mod_By_Stabiron%5D.apk</source>
+<source>http://nextcloud.nxtlvl.appboxes.co/index.php/s/r6MRZeFN7yQcxWD/download</source>
 
 <imge>https://i2.wp.com/onhax.me/wp-content/uploads/2017/06/Crunchyroll-Everything-Anime.png?ssl=1</imge>
 
@@ -600,33 +584,11 @@
 
 <cat>Anime</cat>
 
-<name>FireAnime v3.0</name>
+<name>FireAnime v2.9</name>
 
-<source>https://github.com/XenTeckzX/FireAnime/raw/master/FireAnime3.0.apk</source>
+<source>https://tlgur.com/d/4RM05Xkg</source>
 
-<imge>https://avatars0.githubusercontent.com/u/39435351</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-  
-<item>
-
-<id>601</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>CKAYTV 4.7</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/ckaytv4.7.apk</source>
-
-<imge>http://ckaytv.com/PNGs/ckaytv.png</imge>
+<imge>https://avatars0.githubusercontent.com/u/39435351?s=400&v=4</imge>
 
 <desc></desc>
 
@@ -635,336 +597,6 @@
 <vidz></vidz>
 
 <base64></base64>
-
-</item>
-  
-<item>
-
-<id>602</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>EXOUSIA 2.1 (USE VPN) ADFREE</name>
-
-<source>http://deaddrop.ftp.sh/DO-UZP4MV1JD.apk</source>
-
-<imge>https://apktime.com/charts/exouisa-05-apr.png</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>603</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>FREEFLIX TV 1.0.3 mod</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/FreeFlix_TV-v1.0.3_build_11-Mod.apk</source>
-
-<imge>https://oceanofapk.com/wp-content/uploads/2019/01/freeflix-tv-v1-0-2-pro-mod-apk_1-300x300.jpg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-  
-<item>
-
-<id>604</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>HD STREAMZ 3.2.9 ADS</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/HDStreamz3.2.9.apk</source>
-
-<imge>https://cdn6.aptoide.com/imgs/5/2/8/528dd5f2ce84041a2bed6d472520aa21_icon.png?w=240</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>605</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>LIVE LOUNGE 8.6.0 (USE VPN)</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/LiveLounge8.6.0.apk</source>
-
-<imge>https://www.dropbox.com/s/mxl7ms284mgcv5h/livelounge.png?raw=1</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>606</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>LIVE NETTV 4.7 ADS quick fix 2</name>
-
-<source>https://tlgur.com/d/GEQk1kyG</source>
-
-<imge>https://www.livenettv.to/img/Logo.png</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-  
-<item>
-
-<id>607</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>REDBOX TV 1.3 ADS</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/redboxtvv1.3.apk</source>
-
-<imge>https://cdn6.aptoide.com/imgs/5/4/5/545e5aeb43756babb43ec592a66d9b06_icon.png?w=240</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-  
-<item>
-
-<id>608</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>OREO TV 1.8.0</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/OREOTV_1.8.0_V18.apk</source>
-
-<imge>https://www.dropbox.com/s/fx5kfb9qbspkhn0/oreotv.png?raw=1</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>609</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>SWIFT STREAMZ 1.1</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/SwiftStreamz1.1.apk</source>
-
-<imge>https://www.dropbox.com/s/kp3bp64ixvvv30j/swiftstreamz.png?raw=1</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-
-<id>610</id>
-
-<cat>FREE LIVE TV + SPORTS</cat>
-
-<name>TVTAP PRO 2.9 ADFREE</name>
-
-<source>http://nexxus.casa/nxtlvltech/livetv/TVTAP_Firestick_Pro_AF_2.9%28Psychloan420%29.apk</source>
-
-<imge>http://tvtap.bz/assets/img/footer-logo2.png</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64></base64>
-
-</item>
-
-<item>
-   
-<id>701</id>
-
-<cat>~Hot Links~</cat>
-
-<name>Donate here!</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/4yvkj9D8</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+SXQgdGFrZXMgYSBsb3Qgb2YgaGFyZCB3b3JrIHRvIG1ha2UgYWxsIG9mIHRoZXNlIGFwcHMgYW5kIGZlYXR1cmVzIGVhc2lseSBhdmFpbGFibGUgZm9yIHlvdSEgSSBkb24ndCBjaGFyZ2UsIGJ1dCBwbGVhc2UsIGJ1eSBtZSBhIGJlZXIgaWYgeW91IGNhbiE8YnIgLz48YnIgLz48aDQ+PHN0cm9uZz5DbGljayB0aGUgbGluayBiZWxvdyB0byBvcGVuIHRoZSBQYXlQYWwgZG9uYXRpb24gcGFnZSE8L3N0cm9uZz48YnIgLz48YnIgLz5odHRwOi8vcGF5cGFsLm1lL21yYWt5dDwvaDQ+PGJyIC8+</base64>
-
-</item>
-
-<item>
-
-<id>702</id>
-
-<cat>~Hot Links~</cat>
-
-<name>AndroidTV.Tips</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/g0bJeEk8</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+Rm9yIG1vcmUgaW5mb3JtYXRpb24gYW5kIGF3ZXNvbWUgYmxvZyBwb3N0LCBtYWtlIHN1cmUgdG8gY2hlY2sgb3V0IG91ciB3ZWJzaXRlICE8YnIgLz48YnIgLz48aDQ+PHN0cm9uZz5DbGljayB0aGUgbGluayBiZWxvdyB0byBjaGVjayBpdCBvdXQhPC9zdHJvbmc+PGJyIC8+PGJyIC8+aHR0cDovL2FuZHJvaWR0di50aXBzPC9oND48YnIgLz4=</base64>
-
-</item>
-
-<item>
-
-<id>703</id>
-
-<cat>~Hot Links~</cat>
-
-<name>Real Debrid</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/gvxXKvo8</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+V2hhdCBpcyBSZWFsLURlYnJpZD8hPGJyIC8+PGJyIC8+PGg0PjxzdHJvbmc+UmVhbC1EZWJyaWQgaXMgYSBzdWJzY3JpcHRpb24gc2VydmljZSB0aGF0IHByb3ZpZGVzIGl0J3MgdXNlcnMgYWNjZXNzIHRvIGFkZGl0aW9uYWwgZmlsZS9oaWdoIHF1YWxpdHkgc291cmNlcyBhbmQgbGlua3MsIHdoZW4gcGFpcmVkIHdpdGggdGhlVFYgc2hvdyBhbmQgbW92aWUgYXBwcyE8L3N0cm9uZz48YnIgLz48YnIgLz5odHRwOi8vcmVhbC1kZWJyaWQuY29tLz9pZD0yNTk3OTc2PC9oND48YnIgLz4=</base64>
-
-</item>
-
-<item>
-
-<id>704</id>
-
-<cat>~Hot Links~</cat>
-
-<name>Nord VPN</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/4kBp9vwg</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+UHJpdmFjeSBhbmQgYSBidWlsdCBpbiBhZC1ibG9ja2VyISEhPGJyIC8+PGJyIC8+PGg0PjxzdHJvbmc+Tm9yZFZQTiBnaXZlcyB5b3UgcGVhY2Ugb2YgbWluZCBlYWNoIHRpbWUgeW91IGNvbm5lY3QgdG8gdGhlIGludGVybmV0IG9uIGFsbCBkZXZpY2VzITwvc3Ryb25nPjxiciAvPjxiciAvPmh0dHBzOi8vbm9yZHZwbi5vcmcvbnh0bHZsdGVjaDwvaDQ+PGJyIC8+</base64>
-
-</item>
-
-<item>
-
-<id>705</id>
-
-<cat>~Hot Links~</cat>
-
-<name>Telegram Group</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/4AME0E64</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+Sm9pbiBvdXIgVGVsZWdyYW0gZ3JvdXAgdG8gc3RheSB1cGRhdGVkIGFuZCBtb3JlIGluZm8hPGJyIC8+PGJyIC8+PGg0PjxzdHJvbmc+Q2xpY2sgdGhlIGxpbmsgYmVsb3cgdG8gY2hlY2sgaXQgb3V0ITwvc3Ryb25nPjxiciAvPjxiciAvPmh0dHBzOi8vdC5tZS9hbmRyb2lkdHZ0aXBzPC9oND48YnIgLz4=</base64>
-
-</item>
-
-<item>
-
-<id>706</id>
-
-<cat>~Hot Links~</cat>
-
-<name>Facebook Group</name>
-
-<source></source>
-
-<imge>https://tlgur.com/d/4rzROWz4</imge>
-
-<desc></desc>
-
-<vers></vers>
-
-<vidz></vidz>
-
-<base64>PGJyIC8+Sm9pbiBvdXIgRmFjZWJvb2sgZ3JvdXAgdG8gc3RheSB1cGRhdGVkIGFuZCBtb3JlIGluZm8hPGJyIC8+PGJyIC8+PGg0PjxzdHJvbmc+Q2xpY2sgdGhlIGxpbmsgYmVsb3cgdG8gY2hlY2sgaXQgb3V0ITwvc3Ryb25nPjxiciAvPjxiciAvPmh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9ncm91cHMvYW5kcm9pZHR2dGlwcy88L2g0PjxiciAvPg==</base64>
 
 </item>
 
