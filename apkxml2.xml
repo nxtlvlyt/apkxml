@@ -4,7 +4,7 @@
 
 <id>101</id>
 
-<cat>*Live TV Apps</cat>
+<cat>*Live TV Players</cat>
 
 <name>Smarters Pro v3.0.1</name>
 
@@ -26,7 +26,7 @@
 
 <id>102</id>
 
-<cat>*Paid Services</cat>
+<cat>*Live TV Players</cat>
 
 <name>XCIPTV v5.0.1</name>
 
@@ -46,7 +46,7 @@
 
 <item>
 
-<id>103</id>
+<id>201</id>
 
 <cat>*Paid Services</cat>
 
@@ -72,7 +72,7 @@
 
 <item>
 
-<id>104</id>
+<id>202</id>
 
 <cat>*Paid Services</cat>
 
@@ -98,7 +98,7 @@
 
 <item>
 
-<id>105</id>
+<id>203</id>
 
 <cat>*Paid Services</cat>
 
@@ -120,7 +120,7 @@
 
 <item>
 
-<id>201</id>
+<id>301</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -142,7 +142,7 @@
 
 <item>
 
-<id>202</id>
+<id>302</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -164,7 +164,7 @@
 
 <item>
 
-<id>203</id>
+<id>303</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -186,7 +186,7 @@
 
 <item>
 
-<id>204</id>
+<id>304</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -208,7 +208,7 @@
 
 <item>
 
-<id>205</id>
+<id>305</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -230,7 +230,7 @@
 
 <item>
 
-<id>206</id>
+<id>306</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -250,7 +250,7 @@
 
 </item><item>
 
-<id>207</id>
+<id>307</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -272,7 +272,7 @@
 
 <item>
 
-<id>208</id>
+<id>308</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -294,7 +294,7 @@
 
 <item>
 
-<id>209</id>
+<id>309</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -316,7 +316,7 @@
 
 <item>
 
-<id>210</id>
+<id>310</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -338,7 +338,7 @@
 
 <item>
 
-<id>211</id>
+<id>311</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -360,7 +360,7 @@
 
 <item>
 
-<id>212</id>
+<id>312</id>
 
 <cat>Movies &amp; TV</cat>
 
@@ -382,7 +382,7 @@
 
 <item>
 
-<id>301</id>
+<id>401</id>
 
 <cat>Tools &amp; Utilities</cat>
 
@@ -404,7 +404,7 @@
 
 <item>
 
-<id>302</id>
+<id>402</id>
 
 <cat>Tools &amp; Utilities</cat>
 
@@ -426,7 +426,7 @@
 
 <item>
 
-<id>303</id>
+<id>403</id>
 
 <cat>Tools &amp; Utilities</cat>
 
@@ -448,7 +448,7 @@
 
 <item>
 
-<id>304</id>
+<id>404</id>
 
 <cat>Tools &amp; Utilities</cat>
 
@@ -470,7 +470,7 @@
 
 <item>
 
-<id>305</id>
+<id>405</id>
 
 <cat>Tools &amp; Utilities</cat>
 
@@ -492,7 +492,7 @@
 
 <item>
 
-<id>401</id>
+<id>501</id>
 
 <cat>Players</cat>
 
@@ -514,7 +514,7 @@
 
 <item>
 
-<id>402</id>
+<id>502</id>
 
 <cat>Players</cat>
 
@@ -536,7 +536,7 @@
 
 <item>
 
-<id>501</id>
+<id>601</id>
 
 <cat>Anime</cat>
 
@@ -558,7 +558,7 @@
 
 <item>
 
-<id>502</id>
+<id>602</id>
 
 <cat>Anime</cat>
 
@@ -580,7 +580,7 @@
 
 <item>
 
-<id>503</id>
+<id>603</id>
 
 <cat>Anime</cat>
 
